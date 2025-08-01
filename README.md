@@ -7,7 +7,7 @@ This project implements and compares advanced CNN models — **Xception, ResNet-
 ## 📄 IEEE Paper
 
 - **Title:** Multi-Class Jute Pest Image Classification Leveraging Advanced CNN Models  
-- **Authors:** Prathap V., Abishek G., Abinav K., Manasij V. Sandeep, B M Vinod Esthuri, Shailesh K R  
+- **Authors:** Prathap V, Abhilash G, Abhinav K, Venkata Sandeep, B M Vineel Eshwar, Shailesh K R  
 - **DOI:** *[Pending/To Add]*
 
 ---
@@ -63,7 +63,7 @@ This project implements and compares advanced CNN models — **Xception, ResNet-
 
 ```bibtex
 @inproceedings{jute_pest_cnn_2025,
-  author    = {Prathap V. and Abishek G. and Abinav K. and Manasij Venkata Sandeep and B M Vinod Esthuri and Shailesh K R},
+  author    = {Prathap V and Abhilash G and Abhinav K and Venkata Sandeep and B M Vineel Eshwar and Shailesh K R},
   title     = {Multi-Class Jute Pest Image Classification Leveraging Advanced CNN Models},
   booktitle = {IEEE Conference on ...},
   year      = {2025},
